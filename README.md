@@ -1,2 +1,0 @@
-# ReactPureComponents
-Created with CodeSandbox
